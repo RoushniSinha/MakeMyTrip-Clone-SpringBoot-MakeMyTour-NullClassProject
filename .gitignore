@@ -3,10 +3,8 @@ node_modules/
 .next/
 **/.next/
 target/
-**/target/
 dist/
 build/
 *.log
 .idea/
 .vscode/
-*.tsbuildinfo
