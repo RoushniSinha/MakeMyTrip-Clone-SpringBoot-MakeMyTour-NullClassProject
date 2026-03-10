@@ -1,9 +1,12 @@
-**/.next/
+node_modules/
 **/node_modules/
-**/dist/
-**/build/
+.next/
+**/.next/
+target/
 **/target/
-*.tsbuildinfo
+dist/
+build/
 *.log
 .idea/
 .vscode/
+*.tsbuildinfo
