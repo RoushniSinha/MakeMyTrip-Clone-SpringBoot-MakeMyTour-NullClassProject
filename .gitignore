@@ -1,11 +1,12 @@
-.next/
-**/.next/
 node_modules/
 **/node_modules/
+.next/
+**/.next/
+target/
+**/target/
 dist/
 build/
-target/
 *.log
-*.tsbuildinfo
 .idea/
 .vscode/
+*.tsbuildinfo
